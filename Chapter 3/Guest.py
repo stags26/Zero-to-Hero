@@ -1,0 +1,36 @@
+guests = ['jesus', 'dad', 'mom', 'momo']
+print (f"I would like to invite {guests[0].title()}, {guests[1].title()}, {guests[2].title()}, and {guests[3].title()} to dinner.")
+print (f"\nThe number of people im inviting to dinner is {len(guests)}.")
+#no_show = 'momo'
+#guests.remove(no_show)
+#print (f"{no_show.title()} is unable to make dinner.")
+#guests.append('eric')
+#print (f"I would like to invite {guests[3].title()} on behalf of {no_show.title()}.")
+#guests.insert(0,'mike')
+#guests.insert(2,'charlie')
+#guests.append('bruce')
+#print (f"I am now inviting {guests[0].title()} to dinner.")
+#print (f"I am now inviting {guests[1].title()} to dinner.")
+#print (f"I am now inviting {guests[2].title()} to dinner.")
+#print (f"I am now inviting {guests[3].title()} to dinner.")
+#print (f"I am now inviting {guests[4].title()} to dinner.")
+#print (f"I am now inviting {guests[5].title()} to dinner.")
+#print (f"I am now inviting {guests[6].title()} to dinner.")
+
+#print (f"Unfortunately, the table will not be ready in time.")
+#no_invite1 = guests.pop()
+#print (f"Sorry {no_invite1.title()}, I can no longer invite you to dinner.")
+#no_invite2 = guests.pop()
+#print (f"Sorry {no_invite2.title()}, I can no longer invite you to dinner.")
+#no_invite3 = guests.pop()
+#print (f"Sorry {no_invite3.title()}, I can no longer invite you to dinner.")
+#no_invite4 = guests.pop()
+#print (f"Sorry {no_invite4.title()}, I can no longer invite you to dinner.")
+#no_invite5 = guests.pop()
+#print (f"Sorry {no_invite5.title()}, I can no longer invite you to dinner.")
+#print (f"{guests[0].title()}, you are still invited to dinner.")
+#print (f"{guests[1].title()}, you are still invited to dinner.")
+#del guests[0]
+#del guests[1]
+#print (guests)
+
