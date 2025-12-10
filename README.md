@@ -2,7 +2,7 @@
 ### My complete roadmap from foundational Python to advanced cybersecurity, cloud security, and automation engineering.
 
 This repository contains all of the work, scripts, labs, projects, notes, and tools I build throughout my structured multi-phase learning journey.  
-My goal: become a highly skilled Security Engineer / Cloud Security Engineer earning $200K+.
+My goal: become a highly skilled Security Engineer / Cloud Security Engineer.
 
 ---
 
@@ -100,8 +100,6 @@ Become a Security Engineer, Cloud Security Engineer, or Detection Engineer with 
 - SOC investigation depth  
 - Incident response + malware understanding  
 - Enterprise security architecture knowledge  
-
-Target compensation: **$200K – $250K**.
 
 ---
 
